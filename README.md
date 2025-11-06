@@ -1,24 +1,53 @@
 # tutorials2.1
 
-les1 / les2
+## Les 1 / Les 2 - Introduction and Interface Navigation
 
-![ErwinTutorialsthatidontwanttodo - opdracht 1 - Windows, Mac, Linux - Unity 6 (6000 0 33f1) _DX11_ 2025-09-12 12-06-53 (1)](https://github.com/user-attachments/assets/42c50637-b821-4482-a1ff-0106ea4fe84b)
+**Task:**  
+Demonstrates getting started with Unity, exploring the UI, and opening initial project files.
 
+![Les 1/Les 2 GIF](https://private-user-images.githubusercontent.com/120028703/488777352-42c50637-b821-4482-a1ff-0106ea4fe84b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0MTcxOTYsIm5iZiI6MTc2MjQxNjg5NiwicGF0aCI6Ii8xMjAwMjg3MDMvNDg4Nzc3MzUyLTQyYzUwNjM3LWI4MjEtNDQ4Mi1hMWZmLTAxMDZlYTRmZTg0Yi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNlQwODE0NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMWEzYzFkMWQ5ZmY0NmU3OGUyYjhkZmFhMDE1ZjNkM2U0MGQ0YWRkMzhjMjkzNDI3NzUyNzg2MGFmZmIyYWRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aaVPnR2bb9TywPtttqggxePi4gPOpSuBcbpyWvkCkvQ)
 
-Les 2
+---
 
-![ErwinTutorialsthatidontwanttodo - 2 2 - Windows, Mac, Linux - Unity 6 (6000 0 33f1)_ _DX11_ 2025-10-02 10-17-44](https://github.com/user-attachments/assets/d9ee5a84-15cd-45d3-ac3b-e9941af78634)
+## Les 2 - Object Placement and Manipulation
 
-Les 3
+**Task:**  
+Shows how to add objects to the scene, move them, and use basic properties in Unity.
 
-![ErwinTutorialsthatidontwanttodo - 2 2 - Windows, Mac, Linux - Unity 6 (6000 0 33f1) _DX11_ 2025-10-09 11-41-34](https://github.com/user-attachments/assets/8d2c4831-ed81-4a5b-8efe-db0af462cf9d)
+![Les 2 GIF](https://private-user-images.githubusercontent.com/120028703/496554015-d9ee5a84-15cd-45d3-ac3b-e9941af78634.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0MTcxOTYsIm5iZiI6MTc2MjQxNjg5NiwicGF0aCI6Ii8xMjAwMjg3MDMvNDk2NTU0MDE1LWQ5ZWU1YTg0LTE1Y2QtNDVkMy1hYzNiLWU5OTQxYWY3ODYzNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNlQwODE0NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMzEwNzM0NDg0ZTZlMGIxZDg5YzVjNTEyMjZkZmJlNDA2YTI0MjVhZWIzY2Y2NTlhYzdkYjg3ZmEwMTc5MWNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JrSIh53a8SvErwlZywZ-wl0cQG-PaGZX12FvR_ouBUg)
 
-Les 4
-![ProgLessen M5 - Opdracht 4 - Windows, Mac, Linux - Unity 6 0 (6000 0 47f1)_ _DX11_ 2025-09-18 10-00-01](https://github.com/user-attachments/assets/6c3fa540-0a2d-4a1d-a40e-319b5bf810d4)
+---
 
+## Les 3 - Adding and Configuring Components
 
-Les 5 Debugging
-https://github.com/Ykada/TowerDefencegame/issues
+**Task:**  
+Covers attaching components to objects (e.g., scripts, physics, renderers) and adjusting settings.
 
-Les 6
-https://github.com/Ykada/Space48
+![Les 3 GIF](https://private-user-images.githubusercontent.com/120028703/499278714-8d2c4831-ed81-4a5b-8efe-db0af462cf9d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0MTcxOTYsIm5iZiI6MTc2MjQxNjg5NiwicGF0aCI6Ii8xMjAwMjg3MDMvNDk5Mjc4NzE0LThkMmM0ODMxLWVkODEtNGE1Yi04ZWZlLWRiMGFmNDYyY2Y5ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNlQwODE0NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTE5OWU5Njc1ZjQ1MzYxZjQ1NWQwMDAzNTM3OGU3NjIwZjZjOTYzOGFkODFkOTczZmYwMmE3MDhmZGUxYWMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NtU9QbjqVbaRCA6kxNyvpbblgtSRWEeZn3mRcHvPgsE)
+
+---
+
+## Les 4 - Basic Programming & Scripting
+
+**Task:**  
+Introduces how to write scripts, assign them to game objects, and test simple code in Unity.
+
+![Les 4 GIF](https://private-user-images.githubusercontent.com/120028703/510134921-6c3fa540-0a2d-4a1d-a40e-319b5bf810d4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0MTcxOTYsIm5iZiI6MTc2MjQxNjg5NiwicGF0aCI6Ii8xMjAwMjg3MDMvNTEwMTM0OTIxLTZjM2ZhNTQwLTBhMmQtNGExZC1hNDBlLTMxOWI1YmY4MTBkNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNlQwODE0NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OWM0OTE5NTc0ZjE5OTNhZjk4YzEwZTlhYjY0NjIzMjNlNzNmNjIwNjRjYWYxOWI2OTk5MTAwMzcwNDZhYmVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.R2YYUG4J4pzCrsLyPH4VMrs6wn-hVcS7DP4_Sapo3HE)
+
+---
+
+## Les 5 - Debugging and Problem-Solving
+
+**Task:**  
+Use the issues tracker to find and solve problems within your Unity project.
+
+🔗 [Tower Defence Game Issues](https://github.com/Ykada/TowerDefencegame/issues)
+
+---
+
+## Les 6 - Advanced Project
+
+**Task:**  
+Apply skills from previous lessons in a new game project environment.
+
+🔗 [Space48 Project](https://github.com/Ykada/Space48)
