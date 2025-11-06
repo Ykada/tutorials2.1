@@ -45,9 +45,15 @@ Gebruik de issues tracker om problemen in je Unity-project op te sporen en op te
 
 ---
 
-## Les 6 - Geavanceerd project
+## Les 6/7 - SRP
 
 **Opdracht:**  
 Pas vaardigheden uit vorige lessen toe in een nieuwe gameproject-omgeving.
 
 🔗 [Space48 Project](https://github.com/Ykada/Space48)
+
+## Les 8
+
+IDK
+
+![510644945-f675f5ab-b7aa-4c4b-82d4-d4354b6e9eb7](https://github.com/user-attachments/assets/1404d081-7de1-4bad-a7a8-9377c573ec38)
