@@ -20,7 +20,6 @@ public class EnemyParent : MonoBehaviour
             Move();
         }
     }
-
     protected void Initialize()
     {
         Debug.Log("Enemy initialized with health: " + health + " and speed: " + moveSpeed);
