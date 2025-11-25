@@ -62,5 +62,6 @@ IDK
 
 Class diagram
 
-<img width="1456" height="1293" alt="image" src="https://github.com/user-attachments/assets/8509b89d-68c3-45c9-869a-436091771b54" />
+<img width="5927" height="2982" alt="Untitled diagram-2025-11-25-133053" src="https://github.com/user-attachments/assets/db2ff09b-5a2e-4450-b79e-b4580efe121c" />
+
 
