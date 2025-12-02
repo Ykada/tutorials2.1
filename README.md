@@ -66,3 +66,8 @@ Class diagram
 <img width="5493" height="2982" alt="Untitled diagram-2025-11-25-133053" src="https://github.com/user-attachments/assets/82b5380c-9d2d-46cc-9f91-71d19af4766f" />
 
 
+## Les 10
+
+Inventory System / Enums enzo
+![ErwinTutorialsthatidontwanttodo - Les3 - Windows, Mac, Linux - Unity 6 (6000 0 33f1)_ _DX11_ 2025-12-02 14-36-05](https://github.com/user-attachments/assets/e9fb5094-5806-4d5a-8741-5b414b2c7feb)
+
