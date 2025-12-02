@@ -69,5 +69,8 @@ https://github.com/Ykada/TowerDefencegame/tree/main/Assets/Assets/Scripts
 ## Les 10
 
 Inventory System / Enums enzo
+
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les%203/InventorySystem.cs
+
 ![ErwinTutorialsthatidontwanttodo - Les3 - Windows, Mac, Linux - Unity 6 (6000 0 33f1)_ _DX11_ 2025-12-02 14-36-05](https://github.com/user-attachments/assets/e9fb5094-5806-4d5a-8741-5b414b2c7feb)
 
