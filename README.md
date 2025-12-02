@@ -61,7 +61,7 @@ IDK
 ## Les 9
 
 Class diagram
-
+https://github.com/Ykada/TowerDefencegame/tree/main/Assets/Assets/Scripts
 
 <img width="5493" height="2982" alt="Untitled diagram-2025-11-25-133053" src="https://github.com/user-attachments/assets/82b5380c-9d2d-46cc-9f91-71d19af4766f" />
 
