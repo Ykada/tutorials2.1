@@ -74,3 +74,16 @@ https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les%203/InventorySyste
 
 ![ErwinTutorialsthatidontwanttodo - Les3 - Windows, Mac, Linux - Unity 6 (6000 0 33f1)_ _DX11_ 2025-12-02 14-36-05](https://github.com/user-attachments/assets/e9fb5094-5806-4d5a-8741-5b414b2c7feb)
 
+
+
+## Les 12
+
+Abstraction
+
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/Collectable.cs
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/CollectibleManager.cs
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/DamageTrap.cs
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/HealthPickup.cs
+
+![ErwinTutorialsthatidontwanttodo - Les6 - Windows, Mac, Linux - Unity 6 (6000 0 33f1)_ _DX11_ 2025-12-16 15-28-31](https://github.com/user-attachments/assets/2ff4b6c2-5470-43a4-8858-618cd1bf234c)
+
