@@ -87,3 +87,20 @@ https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/HealthPickup.cs
 
 ![ErwinTutorialsthatidontwanttodo - Les6 - Windows, Mac, Linux - Unity 6 (6000 0 33f1)_ _DX11_ 2025-12-16 15-28-31](https://github.com/user-attachments/assets/2ff4b6c2-5470-43a4-8858-618cd1bf234c)
 
+## Les 13
+
+polymophism
+
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/BattleManager.cs
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/Goblin.cs
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/Enemy.cs
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/Dragon.cs
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les6/Zombie.cs
+
+![ErwinTutorialsthatidontwanttodo - Peterpannenkoek les6 - Windows, Mac, Linux - Unity 6 (6000 0 33f1)_ _DX11_ 2026-01-20 14-51-40](https://github.com/user-attachments/assets/e0c9c915-6eca-4811-b401-1e880bcb2d53)
+
+## Les 14
+
+https://github.com/Ykada/tutorials2.1/blob/main/Assets/6M/Les7/Early%20Returns.cs
+
+
